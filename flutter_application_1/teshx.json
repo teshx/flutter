@@ -1,0 +1,47 @@
+[
+
+
+    {
+      "id": 0,
+      "name": "Full Texts",
+      "catID": 0,
+      "authID": 0,
+      "ISBNnumber": "000-0-00-000000-0",
+      "price": 0.0,
+      "image": "image_url_or_path",
+      "locationID": 0,
+      "numCopy": 0,
+      "status": "available",
+      "numBorrowed": 0,
+      "numReserved": 0
+    }
+,{
+  "id": 0,
+  "name": "Full Texts",
+  "catID": 0,
+  "authID": 0,
+  "ISBNnumber": "000-0-00-000000-0",
+  "price": 0.0,
+  "image": "image_url_or_path",
+  "locationID": 0,
+  "numCopy": 0,
+  "status": "available",
+  "numBorrowed": 0,
+  "numReserved": 0
+}
+,{
+  "id": 0,
+  "name": "Full Texts",
+  "catID": 0,
+  "authID": 0,
+  "ISBNnumber": "000-0-00-000000-0",
+  "price": 0.0,
+  "image": "image_url_or_path",
+  "locationID": 0,
+  "numCopy": 0,
+  "status": "available",
+  "numBorrowed": 0,
+  "numReserved": 0
+}
+
+]
